@@ -55,9 +55,9 @@ int numberOfWiggles = 0;
 
 /////////////////////WIFI & OOCSI//////////////////////////////////
 
-const char* ssid = "UPC224658";
+const char* ssid = "NAME";
 // Password of your Wifi network.
-const char* password = "4wgx9neNmpbs";
+const char* password = "PASSWORD";
 
 // name for connecting with OOCSI (unique handle)
 const char* OOCSIName = "JordyWiggleCode";
